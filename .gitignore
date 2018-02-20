@@ -1,3 +1,6 @@
 .python-version
 .idea/*
 dist/*
+pymachine.egg-info/*
+pymachine/__pycache__/*
+tests/__pycache__/*
